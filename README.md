@@ -2,7 +2,7 @@
 
 A Promise-API for common dialogs (alert/confirm/prompt)
 
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![demo](https://raw.githubusercontent.com/jrop/react-toolbox-dialogs/master/example/demo.gif)
 
 # Installation
 
