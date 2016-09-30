@@ -1,6 +1,6 @@
 {
   "name": "react-toolbox-dialogs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -24,5 +24,6 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
-  }
+  },
+  "repository": "jrop/react-toolbox-dialogs"
 }
