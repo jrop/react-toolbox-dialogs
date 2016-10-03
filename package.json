@@ -1,6 +1,6 @@
 {
   "name": "react-toolbox-dialogs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -11,13 +11,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "promise-defer": "^1.0.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.16.0",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0"
   },
   "peerDependencies": {
-    "promise-defer": "^1.0.0",
     "react": "^15.3.2",
     "react-toolbox": "^1.2.1",
     "react-addons-css-transition-group": "^15.3.2"
