@@ -1,5 +1,7 @@
 # React-Toolbox Dialogs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/react-toolbox-dialogs.svg)](https://greenkeeper.io/)
+
 A Promise-API for common dialogs (alert/confirm/prompt)
 
 ![demo](https://raw.githubusercontent.com/jrop/react-toolbox-dialogs/master/example/demo.gif)
